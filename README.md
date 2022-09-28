@@ -1,7 +1,7 @@
 Репозиторий для размещения заданий по практике ИВТ 3 семестра
 
 ## ИСР 1.1 
-> Анализ IDE [Clion](https://github.com/riki163/Practice2-2022/blob/main/1.1/1.1.pdf)
+> [Анализ моя часть анализа IDE Clion](https://github.com/riki163/Practice2-2022/blob/main/1.1/1.1.pdf)
 ## ИСР 1.2 
 >Проектная работа по Clion [Презентация]()
 ## ИСР 1.3 
