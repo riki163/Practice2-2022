@@ -2,9 +2,9 @@
 > [Моя часть анализа IDE Clion](https://github.com/riki163/Practice2-2022/blob/main/1.1/1.1.pdf)
 ## ИСР 1.2 
 
-[Обзор Clion от группы](https://github.com/riki163/Practice2-2022/blob/main/1.1/1.1.pdf)
+>[Обзор Clion от группы](https://github.com/riki163/Practice2-2022/blob/main/1.1/1.1.pdf)
 
-Проектная работа по Clion [Презентация]()
+>Проектная работа по Clion [Презентация]()
 ## ИСР 1.3 
 >Документация по Яндекс.Трекер.
 [Руководство пользователя](https://github.com/riki163/Practice2-2022/blob/main/1.3/1.3.pdf)
