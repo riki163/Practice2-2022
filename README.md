@@ -5,6 +5,8 @@
 >[Обзор Clion от группы](https://github.com/riki163/Practice2-2022/blob/main/1.1/1.1.pdf)
 
 >[Презентация по Clion](https://github.com/riki163/Practice2-2022/blob/main/1.2/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F1.pdf)
+
+>[Скринкаст по Clion]()
 ## ИСР 1.3 
 >Документация по Яндекс.Трекер.
 [Руководство пользователя](https://github.com/riki163/Practice2-2022/blob/main/1.3/1.3.pdf)
