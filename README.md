@@ -1,5 +1,6 @@
-## ИСР 1.1 
-> [Моя часть анализа IDE Clion](https://github.com/riki163/Practice2-2022/blob/main/1.1/1.1.pdf)
+## ИСР 
+>1.1 
+>[Моя часть анализа IDE Clion](https://github.com/riki163/Practice2-2022/blob/main/1.1/1.1.pdf)
 ## ИСР 1.2 
 
 >[Обзор Clion от группы](https://github.com/riki163/Practice2-2022/blob/main/1.1/1.1.pdf)
