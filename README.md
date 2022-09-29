@@ -14,6 +14,8 @@
 >[Обзор от группы](https://github.com/riki163/Practice2-2022/blob/main/1.3/1.3.pdf)
 
 >[Презентация](https://github.com/riki163/Practice2-2022/blob/main/1.3/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F1.3.pdf)
+
+>[Скринкаст про YTracker]()
 ## ВСР 2.1 
 >GitHub Desktop.
 [Текстовый отчёт](https://github.com/riki163/Practice2-2022/blob/main/2.1/2.1.pdf)
