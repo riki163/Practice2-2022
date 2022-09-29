@@ -25,7 +25,7 @@
 
 >2.1 
 
->[Система контроля версий GitHub](https://github.com/riki163/Practice2-2022/blob/main/2.1/2.1.pdf)
+>[Использование системы контроля версий Git](https://github.com/riki163/Practice2-2022/blob/main/2.1/2.1.pdf)
 
 >2.2 
 
