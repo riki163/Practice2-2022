@@ -17,8 +17,7 @@
 
 >[Скринкаст про YTracker]()
 ## ВСР 2.1 
->GitHub Desktop.
-[Текстовый отчёт](https://github.com/riki163/Practice2-2022/blob/main/2.1/2.1.pdf)
+>[Система контроля версий GitHub](https://github.com/riki163/Practice2-2022/blob/main/2.1/2.1.pdf)
 ## ВСР 2.2 
 >[Инструмент управления личным временем "Reminders"](https://github.com/riki163/Practice2-2022/blob/main/2.2/2.2.pdf)
 ## ВСР 2.3 
