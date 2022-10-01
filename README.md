@@ -9,17 +9,15 @@
 
 >[Презентация по Clion](https://github.com/riki163/Practice2-2022/blob/main/1.2/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F1.2.pdf)
 
->[Скринкаст по Clion]()
+>[Скринкаст по Clion](https://github.com/riki163/PracticeSep-2022/blob/main/1.2/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.2%20%D0%A3%D0%9F%D0%A2%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D0%BA%D0%B0%D1%81%D1%82.pdf)
 
 >1.3 
-
->[Моя часть обзора]()
 
 >[Обзор от группы](https://github.com/riki163/Practice2-2022/blob/main/1.3/1.3.pdf)
 
 >[Презентация](https://github.com/riki163/Practice2-2022/blob/main/1.3/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F1.3.pdf)
 
->[Скринкаст про YTracker]()
+>[Скринкаст про YTracker](https://github.com/riki163/PracticeSep-2022/blob/main/1.3/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.3%20%D0%A3%D0%9F%D0%A2%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D0%BA%D1%81%D1%82.pdf)
 
 ## ВСР 
 
